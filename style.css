@@ -91,13 +91,16 @@ font-size: 14px;
  }
 
 .single-card img{
+    object-fit: cover;
   width: 100%;
   height: 250px;
   border-radius: 8px;
 
 
 }
-.single-card h1 ,  p , button{
+.single-card h1 ,
+ .single-card p ,
+.single-card button{
     margin: 12px 0px 12px 12px;
 }
 .single-card button{
