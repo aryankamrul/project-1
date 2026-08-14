@@ -64,7 +64,7 @@ font-size: 14px;
 .service-container{
     margin-top: 80px ;
 }
-/* .cards{
+.cards{
    display: flex; 
    flex-wrap: wrap;
    justify-content:center;
@@ -76,9 +76,9 @@ font-size: 14px;
 .single-card{
     width:30% ;
     background-color:white;
-} */
+}
  /*  for grid */
- .cards{
+ /* .cards{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     justify-content: center;
@@ -88,7 +88,7 @@ font-size: 14px;
  .single-card{
     background-color: white;
    
- }
+ } */
 
 .single-card img{
     object-fit: cover;
