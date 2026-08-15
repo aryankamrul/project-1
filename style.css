@@ -115,3 +115,45 @@ font-size: 14px;
     background-color: #1A1A2E;
     transition: all ease-in 0.5s;
 }
+
+/* footer */
+
+footer{
+    background-color: #1A1A2E;
+    padding: 30px;
+    
+}
+.footer-section{
+    
+    display:  flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    
+}
+.footer-content{
+    display: flex;
+    flex-direction: column;
+   color: #f2f2f2;
+}
+.footer-content p{
+    padding-bottom: 8px;
+    font-size: 24px;
+    color: #f79811;
+    
+}
+.footer-content a{
+    padding-top: 8px;
+   text-decoration: none;
+   color:white ;
+}
+.footer-content .fa-facebook
+{
+color:rgb(45, 95, 202);
+}
+.footer-content .fa-instagram{
+  color: #ca9979;
+}
+.footer-content .fa-linkedin{
+    color: cadetblue;
+}
